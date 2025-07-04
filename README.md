@@ -1,4 +1,4 @@
-#   Email Cleaner
+#   Email HTML Cleaner
 
 This repository provides a Python-based tool that extracts the **title** and **main message body** from **Microsoft Teams message reminder emails** using `inline CSS attributes`. It is designed to work on a dataset of HTML pages previously scraped from an email mailbox.
 
